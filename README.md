@@ -1,2 +1,0 @@
-# Vanilla-Redux
-Learning Redux
